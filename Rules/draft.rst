@@ -8,7 +8,8 @@ inhabitants.
 
 The first problem was to select the species that you should contact.  You
 quickly decided to ignore the hairless bipeds, they feel nothing, hear almost
-nothing and their only objective seem to be to destroy the planet. Marine mammals are interesting but you do not like too much water.
+nothing and their only objective seem to be to destroy the planet. Marine
+mammals are interesting but you do not like too much water.
 
 You have finally decided that social insects are your target but you don't want
 to be invasive. You will try to lure them where you have filed some chemical
@@ -37,6 +38,13 @@ Remove the anthill tile, shuffle the other tiles face down. Shuffle the cards.
 Give each player 8 tiles and deal all the cards. It's not a problem if one
 player has more cards than the others at this point.
 
-Each player selects 5 tiles and picks the corresponding cards. Then he gives
-the remaining cards to the player on his left. One of the players picks the 
+Each player selects 5 tiles and picks the corresponding cards he has. Then he
+gives the remaining cards to the player on his left. Repeat until all players
+have found all the cards that match their tiles.
 
+Remove the unused cards from the game. Shuffle the tiles choosen by the players
+with some tiles that were not choosen, you must have a total of 24 tiles + the
+anthill tile.
+
+Put the tiles numbered-face down in a 5x5 square with the anthill in the
+center, each player takes his 2 pheromone tokens.
