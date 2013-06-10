@@ -4,7 +4,7 @@ AntWalk
 
 A game by Ghislain "court-jus" Lévêque designed for the "In-A-Tin" contest.
 
-Version 0
+Version 2
 
 *For generations, you have been wandering through space aboard your capsule.
 Finally, you arrive near this blue planet and you want to get in touch with its
@@ -65,12 +65,12 @@ left goes next.
 Game turn
 =========
 
-On your turn, you can take 3 actions that can be :
+On your turn, start by turning the "visited" pheromones you own on the board back
+to their "active" side. Then, you can take 3 actions that can be :
 
 - move the ant
 - play a pheromone token
 - take a pheromone token back
-- play a card
 
 You can use the same action more than once if you want.
 
@@ -116,11 +116,10 @@ You can take back any of your pheromone token if it's not on the same tile as
 the ant and if it's not adjacent to the ant.
 
 Playing a card
---------------
+==============
 
-If, during your turn, the ant is on of your tiles (matching a card in your
-hand), you can play that card. It does not matter if the tile is numbered-face
-down if it was previously visible and the other player can check the number if
-needed.
+Anytime, even if it's not your turn, when the ant walks into a tile that is
+face up and that matches one of your card or when the ant leaves a tile that is
+then turned face up and matches one of your card, play that card.
 
 If it was your last card, you won.
